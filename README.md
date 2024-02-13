@@ -1,6 +1,5 @@
 # FenwickTree
 A new method of range update and range query using fenwick tree
-While traversing the tree, it utilizes the distance of the current node to the starting node to calculate sums or update values.
 
 I wrote the code for these a few years ago when I had less knowledge about C++, but i plan to go over them again and maybe fix some mistakes.
 The struct in MD_fenwick_tree allow you to make a fenwick tree with any number of dimentions still supporting range update and range query.
